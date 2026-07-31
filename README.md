@@ -29,7 +29,7 @@ LLM을 실제 제품에 태우는 일 — 모델 튜닝부터 에이전트가 �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![DeepAgents SDK](https://img.shields.io/badge/DeepAgents_SDK-0B7285?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B5D52?style=for-the-badge&logo=langgraph&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-6E4AFF?style=for-the-badge)
 
 <br/>
