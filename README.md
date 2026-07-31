@@ -1,15 +1,17 @@
 # Jaewon Lee
 
-**KAIST 전산학부 학사 졸업 · Samsung Electronics**
+**Samsung Electronics MX · Language AI** — KAIST 전산학부 학사 졸업
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwlee3746/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jwlee3746/)
 [![Resume](https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://jwlee3746.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwlee3746@naver.com)
 
-머신러닝과 컴퓨터 비전을 중심으로 공부하고 만들어 왔습니다.
-Metric learning · 준지도 학습 같은 연구성 프로젝트에서 시작해 한국어 오픈도메인 QA,
-안드로이드 온디바이스 추론까지 다뤘고, 최근에는 LLM 에이전트 하네스를 실험하고 있습니다.
+삼성전자 MX사업부 Language AI 팀에서 **Bixby의 LLM 모델 개발**과 **에이전틱 플랫폼 개발**을 하고 있습니다.
+LLM을 실제 제품에 태우는 일 — 모델 튜닝부터 에이전트가 도구를 쓰고 실행하는 구조까지 — 이 주된 관심사입니다.
+
+그 전에는 KAIST에서 metric learning과 준지도 학습을 연구했고,
+한국어 오픈도메인 QA와 안드로이드 온디바이스 추론 프로젝트를 진행했습니다.
 
 <br/>
 
@@ -26,9 +28,9 @@ Metric learning · 준지도 학습 같은 연구성 프로젝트에서 시작�
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![DeepAgents SDK](https://img.shields.io/badge/DeepAgents_SDK-0B7285?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-6E4AFF?style=for-the-badge)
 
 <br/>
 
@@ -42,5 +44,3 @@ Metric learning · 준지도 학습 같은 연구성 프로젝트에서 시작�
 | [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) | 한국어 오픈도메인 QA (KorQuAD) | PyTorch · BERT |
 | [KAIST_NAVER_semi_sup_vision](https://github.com/jwlee3746/KAIST_NAVER_semi_sup_vision) | 준지도 이미지 분류 (KAIST–NAVER) | PyTorch |
 | [CS330-pj4-Mobile-Systems-for-ML](https://github.com/jwlee3746/CS330-pj4-Mobile-Systems-for-ML) | 안드로이드 온디바이스 객체 · 오디오 인식 | Kotlin · MediaPipe |
-
-<!-- profile readme -->
