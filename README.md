@@ -18,8 +18,8 @@ LLM을 실제 제품에 태우는 일 — 모델 튜닝부터 에이전트가 �
 ## 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jwlee3746?ext=heatmap&theme=dark&font=Nunito">
-  <img src="https://leetcard.jacoblin.cool/jwlee3746?ext=heatmap&theme=light&font=Nunito" alt="LeetCode Stats" width="500">
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/jwlee3746?theme=dark&font=Nunito">
+  <img src="https://leetcard.jacoblin.cool/jwlee3746?theme=light&font=Nunito" alt="LeetCode Stats" width="500">
 </picture>
 
 <br/>
