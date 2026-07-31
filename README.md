@@ -42,3 +42,5 @@ Metric learning · 준지도 학습 같은 연구성 프로젝트에서 시작�
 | [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) | 한국어 오픈도메인 QA (KorQuAD) | PyTorch · BERT |
 | [KAIST_NAVER_semi_sup_vision](https://github.com/jwlee3746/KAIST_NAVER_semi_sup_vision) | 준지도 이미지 분류 (KAIST–NAVER) | PyTorch |
 | [CS330-pj4-Mobile-Systems-for-ML](https://github.com/jwlee3746/CS330-pj4-Mobile-Systems-for-ML) | 안드로이드 온디바이스 객체 · 오디오 인식 | Kotlin · MediaPipe |
+
+<!-- profile readme -->
