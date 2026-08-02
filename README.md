@@ -42,6 +42,6 @@ KAIST에서는 metric learning과 준지도 학습을 연구하며, 한국어 �
 | [jw-agent-playbook](https://github.com/jwlee3746/jw-agent-playbook) | LLM 에이전트 하네스 프롬프트 · 전략 · 세팅 모음 | Prompt Engineering |
 | [pytorch_MVM](https://github.com/jwlee3746/pytorch_MVM) | **MVM+** — GAN 기반 매니폴드 매칭 생성 모델, Average Hausdorff loss 고안 · [자세히](https://jwlee3746.github.io/blog/Project/mvm-plus/) | PyTorch |
 | [metric_learning_pytorch](https://github.com/jwlee3746/metric_learning_pytorch) | Deep metric learning 실험 코드 | PyTorch |
-| [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) | **네이버 스니펫 오픈도메인 QA** — 90% unanswerable 불균형 보완, KoELECTRA 앙상블 · [자세히](https://jwlee3746.github.io/projects/naver-snippet-qa/) | PyTorch · BERT |
-| [KAIST_NAVER_semi_sup_vision](https://github.com/jwlee3746/KAIST_NAVER_semi_sup_vision) | **네이버 쇼핑 이미지 준지도 분류** — RandAugment + 변형 MixMatch, top-1 56 → 69% · [자세히](https://jwlee3746.github.io/projects/naver-shopping-semisup/) | PyTorch |
+| [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) | **네이버 스니펫 오픈도메인 QA** — 90% unanswerable 불균형 보완, KoELECTRA 앙상블 · [자세히](https://jwlee3746.github.io/blog/Project/naver-snippet-qa/) | PyTorch · BERT |
+| [KAIST_NAVER_semi_sup_vision](https://github.com/jwlee3746/KAIST_NAVER_semi_sup_vision) | **네이버 쇼핑 이미지 준지도 분류** — RandAugment + 변형 MixMatch, top-1 56 → 69% · [자세히](https://jwlee3746.github.io/blog/Project/naver-shopping-semisup/) | PyTorch |
 | [CS330-pj4-Mobile-Systems-for-ML](https://github.com/jwlee3746/CS330-pj4-Mobile-Systems-for-ML) | 안드로이드 온디바이스 객체 · 오디오 인식 | Kotlin · MediaPipe |
