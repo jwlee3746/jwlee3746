@@ -30,6 +30,7 @@ LLM을 실제 제품에 태우는 일 — 모델 튜닝부터 에이전트가 �
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B5D52?style=for-the-badge&logo=langgraph&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-6E4AFF?style=for-the-badge)
 
 <br/>
