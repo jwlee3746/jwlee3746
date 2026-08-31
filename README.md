@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwlee3746/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jwlee3746/)
-[![Resume](https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://jwlee3746.github.io)
+[![One-page Resume](https://img.shields.io/badge/One--page_Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://jwlee3746.github.io/resume/jaewon-lee-resume.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwlee3746@naver.com)
 
 삼성전자 MX사업부 Language AI 팀에서 **Bixby의 LLM 모델 개발**과 **에이전틱 플랫폼 개발**을 하고 있습니다.
