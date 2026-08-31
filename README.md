@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwlee3746@naver.com)
 
 삼성전자 MX사업부 Language AI 팀에서 **Bixby의 LLM 모델 개발**과 **에이전틱 플랫폼 개발**을 하고 있습니다.
-LLM을 실제 제품에 태우는 일 — 모델 튜닝부터 에이전트가 도구를 쓰고 실행하는 구조까지 — 이 주된 관심사입니다.
+LLM을 실제 제품에 태우는 일 — 모델 튜닝과 평가부터 에이전트 오케스트레이션, 안정적인 도구 실행, 실행 흐름 관측까지 — 이 주된 관심사입니다.
 
 그 전에는 **학부 산학 연계 인턴**(2022.05 – 2023.02)으로 AI 학습용 데이터 진단 · 개선 과제 '데이터 클리닉'을 연구 개발했습니다.
 KAIST에서는 metric learning과 준지도 학습을 연구하며, 한국어 오픈도메인 QA와 안드로이드 온디바이스 추론 프로젝트를 진행했습니다.
@@ -27,11 +27,21 @@ KAIST에서는 metric learning과 준지도 학습을 연구하며, 한국어 �
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B5D52?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-DB2777?style=for-the-badge)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-6E4AFF?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+<br/>
+
+## 🔭 Current Focus
+
+- LLM 모델 튜닝과 평가 파이프라인
+- 에이전트 오케스트레이션과 안정적인 도구 실행
+- Langfuse · OpenTelemetry 기반 에이전트 관측성
+- 프롬프트 · 하네스 설계와 운영
 
 <br/>
 
