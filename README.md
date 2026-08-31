@@ -40,10 +40,11 @@ KAIST에서는 metric learning과 준지도 학습을 연구하며, 한국어 �
 
 ## 🔭 Current Focus
 
-- 표준 TC 계약과 multi-step replay를 갖춘 LLM·에이전트 평가 파이프라인
+- Trace 탐색에서 versioned task로 이어지는 LLM·에이전트 평가 데이터 흐름
+- 고정 regression TC와 interactive simulator를 결합한 hybrid evaluation
 - 에이전트 오케스트레이션과 안정적인 도구 실행
 - 재현 가능한 평가 artifact와 장시간 실행 복구
-- Langfuse · OpenTelemetry 기반 에이전트 관측성
+- Langfuse · OpenTelemetry 기반 trace 관측성과 failure discovery
 - 프롬프트 · 하네스 설계와 운영
 
 <br/>
@@ -52,7 +53,7 @@ KAIST에서는 metric learning과 준지도 학습을 연구하며, 한국어 �
 
 | 프로젝트 | 내용 | 스택 |
 | --- | --- | --- |
-| [재현 가능한 LLM 에이전트 평가 파이프라인](https://jwlee3746.github.io/blog/Agent/reproducible-agent-evaluation/) | 표준 TC 계약, CI 검증, multi-step replay, deterministic scoring과 checkpoint/resume 설계 | Evaluation Architecture · JSON Schema · CI/CD |
+| [재현 가능한 LLM 에이전트 평가 파이프라인](https://jwlee3746.github.io/blog/Agent/reproducible-agent-evaluation/) | Trace-to-eval, TC vs simulator, evaluation harness를 기존 replay·scoring 구현 경험과 함께 정리 | Evaluation Architecture · OTel · Harness |
 | [jw-agent-playbook](https://github.com/jwlee3746/jw-agent-playbook) | LLM 에이전트 하네스 프롬프트 · 전략 · 세팅 모음 | Prompt Engineering |
 | [pytorch_MVM](https://github.com/jwlee3746/pytorch_MVM) | **MVM+** — GAN 기반 매니폴드 매칭 생성 모델, Average Hausdorff loss 고안 · [자세히](https://jwlee3746.github.io/blog/Project/mvm-plus/) | PyTorch |
 | [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) | **네이버 스니펫 오픈도메인 QA** — 90% unanswerable 불균형 보완, KoELECTRA 앙상블 · [자세히](https://jwlee3746.github.io/blog/Project/naver-snippet-qa/) | PyTorch · BERT |
