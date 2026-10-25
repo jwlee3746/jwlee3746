@@ -23,18 +23,6 @@
 
 2025년에는 상용·오픈소스 LLM 비교 리포트로 리더십의 모델 도입 방향 판단을 지원하고, Locale KB 도입과 해외 개발팀의 구현 추진을 주도했습니다. Action Chaining 관련 이슈 대응·테스트 케이스 작성에도 참여했습니다.
 
-## Public Code & Writing
-
-| 공개 프로젝트·글 | 내용 |
-| --- | --- |
-| [LLM 에이전트 평가 설계](https://jwlee3746.github.io/posts/reproducible-agent-evaluation/) | 도구 선택 평가·회귀 검증 경험과 평가 설계 관점을 정리한 기술 글 |
-| [jw-agent-playbook](https://github.com/jwlee3746/jw-agent-playbook) | 에이전트 하네스 프롬프트·전략·설정 정리 |
-| [pytorch_MVM](https://github.com/jwlee3746/pytorch_MVM) · [글](https://jwlee3746.github.io/posts/mvm-plus/) | GAN 기반 매니폴드 매칭 생성 모델과 Average Hausdorff loss |
-| [PIRL-korquad-open-cs492h](https://github.com/jwlee3746/PIRL-korquad-open-cs492h) · [글](https://jwlee3746.github.io/posts/naver-snippet-qa/) | KoELECTRA 앙상블 기반 한국어 오픈도메인 QA |
-| [KAIST_NAVER_semi_sup_vision](https://github.com/jwlee3746/KAIST_NAVER_semi_sup_vision) · [글](https://jwlee3746.github.io/posts/naver-shopping-semisup/) | RandAugment·MixMatch 기반 쇼핑 이미지 준지도 분류 |
-
-학부 산학 연계 인턴으로 데이터 진단·개선 과제인 '데이터 클리닉'을 연구 개발했습니다. KAIST에서는 metric learning·준지도 학습을 연구하며 한국어 오픈도메인 QA와 안드로이드 온디바이스 추론 프로젝트를 진행했습니다.
-
 ## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
